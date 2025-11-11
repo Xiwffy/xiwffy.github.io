@@ -1,0 +1,40 @@
+.center {
+    text-align: center; /* Центрирует текст внутри элемента */
+    font-size: large;
+  }
+
+.СТРАХ {
+      color: red;
+  }
+body{
+    background: rgb(48, 14, 40);
+    color: white;
+}
+.rubik{
+        font-family: "Pacifico", cursive;
+        font-weight: 400;
+        font-style: normal;
+  }
+.ВЫКЛЮЧИ{
+    font-family: "Cascadia Code", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+.fuck{
+    font-family: "arial", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+.jura{
+    font-family: "Franklin Gothic", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+  }
+.done{
+  color: darkseagreen;
+  text-decoration: line-through solid black 2px;
+}
+.flip_vert{
+  transform: scaleY(-1);
+}
